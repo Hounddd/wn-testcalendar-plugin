@@ -1,0 +1,5 @@
+1.0.0:
+    - 'First version of Calendar'
+1.0.1:
+    - 'Create Events Table'
+    - v1.0.1/create_events_table.php

@@ -1,0 +1,21 @@
+{
+    "name": "hounddd/wn-testcalendar-plugin",
+    "type": "winter-plugin",
+    "description": "Test plugin for the backend calendar controller",
+    "homepage": "https://github.com/Hounddd/wn-testcalendar-plugin",
+    "keywords": ["winter cms", "winter", "plugin", "calendar"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hounddd - Damien MATHIEU",
+            "email": "damien@hounddd.fr",
+            "role": "Original Author"
+        }
+    ],
+    "require": {
+        "php": "^7.2 || ^8.0"
+    },
+    "extra": {
+        "installer-name": "testcalendar"
+    }
+}

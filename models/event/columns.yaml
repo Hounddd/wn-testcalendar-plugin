@@ -1,0 +1,29 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    name:
+        label: Name
+    start_at:
+        label: Start at
+        type: datetime
+    end_at:
+        label: End at
+        type: datetime
+    is_allday:
+        label: All day
+        type: switch
+
+    created_at:
+        label: 'hounddd.calendar::lang.models.general.created_at'
+        type: datetime
+        searchable: true
+        sortable: true
+        invisible: true
+    updated_at:
+        label: 'hounddd.calendar::lang.models.general.updated_at'
+        type: datetime
+        searchable: true
+        sortable: true
+        invisible: true
